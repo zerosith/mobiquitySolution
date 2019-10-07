@@ -8,7 +8,7 @@ Hello developer here are the instructions to run the solition for the mobiquity 
   - Run the tests
   
   
-You will see two folders *packerSolution* and *packerSolutionTest*.
+You will see two folders: *packerSolution* and *packerSolutionTest*.
 
 *packerSolution* is the solution to the challenge, this maven project creates the **packerSolution-0.1.jar** library file
 
