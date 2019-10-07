@@ -12,8 +12,6 @@ You will see two folders: *packerSolution* and *packerSolutionTest*.
 
 *packerSolution* is the solution to the challenge, this maven project creates the **packerSolution-0.1.jar** library file
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
-
 packerSolution requires [maven](https://maven.apache.org)  to run.
 
 ### Run the Code
