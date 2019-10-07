@@ -3,16 +3,27 @@
 
 Hello developer here are the instructions to run the solition for the mobiquity inc challenge
 
+  - Rationale
   - Run the code
   - Edit input file
   - Run the tests
-  
   
 You will see two folders: *packerSolution* and *packerSolutionTest*.
 
 *packerSolution* is the solution to the challenge, this maven project creates the **packerSolution-0.1.jar** library file
 
 packerSolution requires [maven](https://maven.apache.org)  to run.
+
+### Rationale
+
+The approach used for the solution was a dynamic programming technique.
+In order to obtain the values of the items and the weights of the items
+Some string manipulation was needed.
+
+After obtaining the data in the Array data structure, a 2-dimensional array is created
+To store the possible values of the sum of the values of the different items in each test
+case.
+
 
 ### Run the Code
 
