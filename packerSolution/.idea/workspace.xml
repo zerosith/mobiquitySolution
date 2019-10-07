@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="894b1731-2bac-4714-9b6d-5b26898574f7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RnzI7J8mdAksr7T3ll6EB5qINm" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PackerTest.sucessCase">
+    <configuration name="PackerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="packerSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiquityinc.packer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiquityinc.packer" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiquityinc.packer.PackerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackerTest.justAnExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="packerSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiquityinc.packer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiquityinc.packer" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiquityinc.packer.PackerTest" />
+      <option name="METHOD_NAME" value="justAnExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackerTest.sucessCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="packerSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiquityinc.packer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiquityinc.packer" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiquityinc.packer.PackerTest" />
+      <option name="METHOD_NAME" value="sucessCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackerTest.throwExceptionWhenMaxWeighIsExceded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="packerSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiquityinc.packer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiquityinc.packer" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiquityinc.packer.PackerTest" />
+      <option name="METHOD_NAME" value="throwExceptionWhenMaxWeighIsExceded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackerTest.throwExceptionWhenNumberOfItemsExceded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="packerSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiquityinc.packer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiquityinc.packer" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiquityinc.packer.PackerTest" />
+      <option name="METHOD_NAME" value="throwExceptionWhenNumberOfItemsExceded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PackerTest.sucessCase" />
+        <item itemvalue="JUnit.PackerTest.throwExceptionWhenMaxWeighIsExceded" />
+        <item itemvalue="JUnit.PackerTest.throwExceptionWhenNumberOfItemsExceded" />
+        <item itemvalue="JUnit.PackerTest" />
+        <item itemvalue="JUnit.PackerTest.justAnExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="894b1731-2bac-4714-9b6d-5b26898574f7" name="Default Changelist" comment="" />
+      <created>1570317564206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570317564206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobiquityinc/packer/Packer.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobiquityinc/packer/Packer.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobiquityinc/packer/PackerTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobiquityinc/packer/Packer.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="mat" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
